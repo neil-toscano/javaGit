@@ -17,6 +17,9 @@ public class Git {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hol mundo");
+        for(int i=0;i<10;i++){
+            
+        }
     }
     
 }
