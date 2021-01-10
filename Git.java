@@ -18,7 +18,7 @@ public class Git {
         // TODO code application logic here
         System.out.println("hol mundo");
         for(int i=0;i<10;i++){
-            
+            System.out.println("hola mundo de java");
         }
     }
     
